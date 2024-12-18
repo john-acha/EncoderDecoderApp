@@ -1,5 +1,6 @@
 # The application allows users to encode and decode text using Base64 encoding.
-__autor__ = 'John Acha'
+__author__ = 'John Acha'
+__version__ = '0.0.1'
 
 import sys
 import base64
